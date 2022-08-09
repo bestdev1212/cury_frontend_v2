@@ -175,7 +175,7 @@ const Header: React.FC<ComponentProps> = ({}) => {
                                                     rightPos={item.comingSoon.rightPos}
                                                     className="comingsoon_mark"
                                                 >
-                                                    Coming soon
+                                                    Under Maintenance
                                                 </ComingSoonTypo>
                                             )}
                                         </HeaderMenuBtn>
